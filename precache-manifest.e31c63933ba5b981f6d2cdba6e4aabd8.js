@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/crime-info/static/js/runtime~main.8b377e47.js"
   },
   {
-    "revision": "7c84cb0a4b0fb1f3619c",
-    "url": "/crime-info/static/js/main.71a1b3d4.chunk.js"
+    "revision": "15fb5b04c7e8b888106f",
+    "url": "/crime-info/static/js/main.5b7bd606.chunk.js"
   },
   {
-    "revision": "8e706f90367d90f9a04b",
-    "url": "/crime-info/static/js/2.03ab3833.chunk.js"
+    "revision": "a9ed05644d308f126104",
+    "url": "/crime-info/static/js/2.c2d1bc72.chunk.js"
   },
   {
-    "revision": "7c84cb0a4b0fb1f3619c",
-    "url": "/crime-info/static/css/main.66bbbe50.chunk.css"
+    "revision": "15fb5b04c7e8b888106f",
+    "url": "/crime-info/static/css/main.159738c5.chunk.css"
   },
   {
-    "revision": "a624f9bdf1766dc1479474513975d0af",
+    "revision": "f429eb44d88eaa515d4a55955dc2ba02",
     "url": "/crime-info/index.html"
   }
 ];
