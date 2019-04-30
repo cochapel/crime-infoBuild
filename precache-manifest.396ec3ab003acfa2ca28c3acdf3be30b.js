@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/crime-info/static/media/thief.32822ace.jpg"
   },
   {
-    "revision": "5176e26fa7d892a6b8989847cb501f52",
-    "url": "/crime-info/static/media/logo.5176e26f.png"
+    "revision": "e30d0713e3b8d852161e0e05916ab523",
+    "url": "/crime-info/static/media/logo.e30d0713.png"
   },
   {
     "revision": "a213b3c5ccb42a31c042c3bd1bced075",
@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/crime-info/static/js/runtime~main.8b377e47.js"
   },
   {
-    "revision": "15fb5b04c7e8b888106f",
-    "url": "/crime-info/static/js/main.5b7bd606.chunk.js"
+    "revision": "57153eded4e810246905",
+    "url": "/crime-info/static/js/main.52b59c94.chunk.js"
   },
   {
-    "revision": "a9ed05644d308f126104",
-    "url": "/crime-info/static/js/2.c2d1bc72.chunk.js"
+    "revision": "dbf814d78973e1298e6c",
+    "url": "/crime-info/static/js/2.4d43aba3.chunk.js"
   },
   {
-    "revision": "15fb5b04c7e8b888106f",
-    "url": "/crime-info/static/css/main.159738c5.chunk.css"
+    "revision": "57153eded4e810246905",
+    "url": "/crime-info/static/css/main.24eb2b71.chunk.css"
   },
   {
-    "revision": "f429eb44d88eaa515d4a55955dc2ba02",
+    "revision": "bf1605161e79ebd26b320b1b6211f51d",
     "url": "/crime-info/index.html"
   }
 ];
