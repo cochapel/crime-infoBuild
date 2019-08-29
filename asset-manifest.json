@@ -1,15 +1,15 @@
 {
-  "main.css": "/crime-info/static/css/main.734cec66.chunk.css",
-  "main.js": "/crime-info/static/js/main.52b59c94.chunk.js",
-  "main.js.map": "/crime-info/static/js/main.52b59c94.chunk.js.map",
-  "runtime~main.js": "/crime-info/static/js/runtime~main.8b377e47.js",
-  "runtime~main.js.map": "/crime-info/static/js/runtime~main.8b377e47.js.map",
-  "static/js/2.4d43aba3.chunk.js": "/crime-info/static/js/2.4d43aba3.chunk.js",
-  "static/js/2.4d43aba3.chunk.js.map": "/crime-info/static/js/2.4d43aba3.chunk.js.map",
-  "index.html": "/crime-info/index.html",
-  "precache-manifest.270d9199b8e6070865d2b3840e5e5c19.js": "/crime-info/precache-manifest.270d9199b8e6070865d2b3840e5e5c19.js",
-  "service-worker.js": "/crime-info/service-worker.js",
-  "static/css/main.734cec66.chunk.css.map": "/crime-info/static/css/main.734cec66.chunk.css.map",
-  "static/media/styles.css": "/crime-info/static/media/thief.32822ace.jpg",
-  "static/media/logo.png": "/crime-info/static/media/logo.e30d0713.png"
+  "main.css": "/static/css/main.3a44714c.chunk.css",
+  "main.js": "/static/js/main.69ebff32.chunk.js",
+  "main.js.map": "/static/js/main.69ebff32.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.4d43aba3.chunk.js": "/static/js/2.4d43aba3.chunk.js",
+  "static/js/2.4d43aba3.chunk.js.map": "/static/js/2.4d43aba3.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.5cd1cbf07de9e6bcdce892a95c6293d0.js": "/precache-manifest.5cd1cbf07de9e6bcdce892a95c6293d0.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.3a44714c.chunk.css.map": "/static/css/main.3a44714c.chunk.css.map",
+  "static/media/styles.css": "/static/media/thief.32822ace.jpg",
+  "static/media/logo.png": "/static/media/logo.e30d0713.png"
 }
